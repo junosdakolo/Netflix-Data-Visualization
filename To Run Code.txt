@@ -1,0 +1,13 @@
+To Run Code
+1. Download zip file from GitHub
+2. Import Zip And Unzip File
+3. Open A Python Compiler
+4. Install libraries Needed :
+
+Open up a terminal window and type
+pip install matplotlib
+pip install numpy
+pip install pandas
+
+Run The Code
+
